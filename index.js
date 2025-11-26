@@ -1,3 +1,3 @@
 function greet() {
-  console.log("Hello from the MAIN branch!");
+  console.log("Hello from the local branch!");
 }
